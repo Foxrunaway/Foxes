@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <h1>Foxes: Fascinating Creatures of the Wild</h1>
+    <p>Foxes are captivating members of the Canidae family, which also includes wolves, dogs, and other relatives. Known for their cunning nature and adaptable lifestyles, foxes are found across a wide range of habitats, from forests and grasslands to urban areas.</p>
+    <h2>Key Features</h2>
+    <ul>
+        <li><b>Appearance:</b>Foxes have a varied coat color ranging from red and gray to brown and black, depending on the species. They have large, upright ears and a distinctive bushy tail.</li>
+        <br>
+        <li><b>Behavior:</b>Typically solitary and nocturnal, foxes are agile hunters with keen senses. They are known for their diverse vocalizations and clever problem-solving abilities.</li>
+        <br>
+        <li><b>Habitat:</b>Foxes are highly adaptable and can live in various environments, from forests and grasslands to urban areas.</li>
+        <br>
+        <li><b>Diet:</b>Omnivorous, foxes consume a wide range of foods including small mammals, birds, insects, fruits, and vegetables.</li>
+    </ul>
+    <b>Ecological Role:</b><p>Foxes play a vital role in their ecosystems by controlling populations of small mammals and insects, and aiding in seed dispersal through their diet.</p>
+<b>Conservational Status:</b><p>While most fox species are not currently endangered, they face challenges from habitat loss and human-wildlife conflicts. Conservation efforts focus on habitat protection and promoting coexistence with human populations.</p>
+   <img src="C:\Users\steve\Fox Stuff\Fox Photo\360_F_76479767_gv1iIKiZ0e9K1gw8YLGx5HBAQRHufrFB.jpg" alt="">
